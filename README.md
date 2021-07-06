@@ -6,4 +6,4 @@ I'm Mattia, a 28-year old Full Stack Web Developer from Trieste, Italy 🇮🇹.
 
 ## 📬 Get in touch
 
-- LinkedIn: [linkedin.com/in/mattia-polli]
+- [LinkedIn](https://www.linkedin.com/in/mattia-polli)
